@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./PLACES-mount-mauganui-new-zealand.jpg"><img src="./PLACES-mount-mauganui-new-zealand.jpg" width="200" /></a></td>
-<td><a href="./aldebaran-s-uXchDIKs4qI-unsplash.jpg"><img src="./aldebaran-s-uXchDIKs4qI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./courtnie-tosana-school-of-dolphins-in-australia.jpg"><img src="./courtnie-tosana-school-of-dolphins-in-australia.jpg" width="200" /></a></td>
+<td><a href="./MD2o9m.jpg"><img src="./MD2o9m.jpg" width="200" /></a></td>
+<td><a href="./alex-perez-marco-island.jpg"><img src="./alex-perez-marco-island.jpg" width="200" /></a></td>
+<td><a href="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg"><img src="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./constrcuted-xiii.jpg"><img src="./constrcuted-xiii.jpg" width="200" /></a></td>
+</tr><tr>
 <td><a href="./dan-stark-DLwUVlzrP0Q-unsplash.jpg"><img src="./dan-stark-DLwUVlzrP0Q-unsplash.jpg" width="200" /></a></td>
+<td><a href="./dennis-maliepaard-c9ccYkbzMZ0-unsplash.jpg"><img src="./dennis-maliepaard-c9ccYkbzMZ0-unsplash.jpg" width="200" /></a></td>
+<td><a href="./engjell-gjepali-M0OIyN5u8ZM-unsplash.jpg"><img src="./engjell-gjepali-M0OIyN5u8ZM-unsplash.jpg" width="200" /></a></td>
+<td><a href="./hydrometry-iv.jpg"><img src="./hydrometry-iv.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./encrusted-ix.jpg"><img src="./encrusted-ix.jpg" width="200" /></a></td>
-<td><a href="./encrusted-vii.jpg"><img src="./encrusted-vii.jpg" width="200" /></a></td>
-<td><a href="./flyd-GRzLN_-o5dQ-unsplash.jpg"><img src="./flyd-GRzLN_-o5dQ-unsplash.jpg" width="200" /></a></td>
-<td><a href="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg"><img src="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./jessica-pamp-XiHRIiwq2jY-unsplash.jpg"><img src="./jessica-pamp-XiHRIiwq2jY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg"><img src="./niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./reso.jpg"><img src="./reso.jpg" width="200" /></a></td>
+<td><a href="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg"><img src="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./guille-pozzi-PO0UHx-5mHo-unsplash.jpg"><img src="./guille-pozzi-PO0UHx-5mHo-unsplash.jpg" width="200" /></a></td>
-<td><a href="./jefferson.webp"><img src="./jefferson.webp" width="200" /></a></td>
-<td><a href="./jon-flobrant-rB7-LCa_diU-unsplash.jpg"><img src="./jon-flobrant-rB7-LCa_diU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./jordan-heinrichs-UpA6QvGpLHc-unsplash.jpg"><img src="./jordan-heinrichs-UpA6QvGpLHc-unsplash.jpg" width="200" /></a></td>
-</tr><tr>
-<td><a href="./lincoln.webp"><img src="./lincoln.webp" width="200" /></a></td>
-<td><a href="./rohit-tandon-9wg5jCEPBsw-unsplash.jpg"><img src="./rohit-tandon-9wg5jCEPBsw-unsplash.jpg" width="200" /></a></td>
-<td><a href="./sand-2.jpg"><img src="./sand-2.jpg" width="200" /></a></td>
-<td><a href="./two-boats-off-maldives.jpg"><img src="./two-boats-off-maldives.jpg" width="200" /></a></td>
+<td><a href="./shot-by-cerqueira-0o_GEzyargo-unsplash.jpg"><img src="./shot-by-cerqueira-0o_GEzyargo-unsplash.jpg" width="200" /></a></td>
+<td><a href="./spencer-davis-ilQmlVIMN4c-unsplash.jpg"><img src="./spencer-davis-ilQmlVIMN4c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./tim-marshall-uanoYn1AmPs-unsplash.jpg"><img src="./tim-marshall-uanoYn1AmPs-unsplash.jpg" width="200" /></a></td>
+<td><a href="./win-98.png"><img src="./win-98.png" width="200" /></a></td>
 </tr><tr>
 </tr></table>
