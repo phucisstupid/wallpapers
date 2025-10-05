@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./10-0_10-1-6k.jpg"><img src="./10-0_10-1-6k.jpg" width="200" /></a></td>
-<td><a href="./MEDIA-star-wars-robot-walker-thing-i-forgot-what-its-called-please-dont-hate-me.jpg"><img src="./MEDIA-star-wars-robot-walker-thing-i-forgot-what-its-called-please-dont-hate-me.jpg" width="200" /></a></td>
-<td><a href="./NOUNS-jellyfish-2.jpg"><img src="./NOUNS-jellyfish-2.jpg" width="200" /></a></td>
-<td><a href="./Zebras.jpg"><img src="./Zebras.jpg" width="200" /></a></td>
+<td><a href="./NOUNS-giant-golf-ball.jpg"><img src="./NOUNS-giant-golf-ball.jpg" width="200" /></a></td>
+<td><a href="./TECH-retro-microsoft.jpg"><img src="./TECH-retro-microsoft.jpg" width="200" /></a></td>
+<td><a href="./Walkhrome.jpg"><img src="./Walkhrome.jpg" width="200" /></a></td>
+<td><a href="./aperture-vintage-Z6EpCdMcoUU-unsplash.jpg"><img src="./aperture-vintage-Z6EpCdMcoUU-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./annie-spratt-8nAvFWUig3c-unsplash.jpg"><img src="./annie-spratt-8nAvFWUig3c-unsplash.jpg" width="200" /></a></td>
-<td><a href="./cristina-gottardi-I1Lv2yX67GI-unsplash.jpg"><img src="./cristina-gottardi-I1Lv2yX67GI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./dan-MdTtpxGlrz8-unsplash.jpg"><img src="./dan-MdTtpxGlrz8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg"><img src="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./astronomy.jpg"><img src="./astronomy.jpg" width="200" /></a></td>
+<td><a href="./encrusted-iii.jpg"><img src="./encrusted-iii.jpg" width="200" /></a></td>
+<td><a href="./encrusted-v-ii.jpg"><img src="./encrusted-v-ii.jpg" width="200" /></a></td>
+<td><a href="./encrusted-viii.jpg"><img src="./encrusted-viii.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./mathias-reding-AUDG_Ja0MOU-unsplash.jpg"><img src="./mathias-reding-AUDG_Ja0MOU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./max-chen-ZQxxar2ovS0-unsplash.jpg"><img src="./max-chen-ZQxxar2ovS0-unsplash.jpg" width="200" /></a></td>
-<td><a href="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg"><img src="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./jazmin-quaynor-8ioenvmof-I-unsplash.jpg"><img src="./jazmin-quaynor-8ioenvmof-I-unsplash.jpg" width="200" /></a></td>
+<td><a href="./joel-vodell-8Ogfqvw15Rg-unsplash.jpg"><img src="./joel-vodell-8Ogfqvw15Rg-unsplash.jpg" width="200" /></a></td>
 <td><a href="./neon-dream.jpg"><img src="./neon-dream.jpg" width="200" /></a></td>
+<td><a href="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg"><img src="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./nighthawk.png"><img src="./nighthawk.png" width="200" /></a></td>
-<td><a href="./sand-2.jpg"><img src="./sand-2.jpg" width="200" /></a></td>
-<td><a href="./the-xx.jpg"><img src="./the-xx.jpg" width="200" /></a></td>
-<td><a href="./yin-dark.jpg"><img src="./yin-dark.jpg" width="200" /></a></td>
+<td><a href="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"><img src="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sand-1.jpg"><img src="./sand-1.jpg" width="200" /></a></td>
+<td><a href="./sanders.jpg"><img src="./sanders.jpg" width="200" /></a></td>
+<td><a href="./yin-light.jpg"><img src="./yin-light.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
