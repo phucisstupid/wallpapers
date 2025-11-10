@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./NOUNS-dolphins.jpg"><img src="./NOUNS-dolphins.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-6-6k.jpg"><img src="./OSX-10-6-6k.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-8-6k.jpg"><img src="./OSX-10-8-6k.jpg" width="200" /></a></td>
-<td><a href="./caleb-white-R3d2GdiVRyg-unsplash.jpg"><img src="./caleb-white-R3d2GdiVRyg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./10-5-Server-6k.jpg"><img src="./10-5-Server-6k.jpg" width="200" /></a></td>
+<td><a href="./TECH-retro-att.jpg"><img src="./TECH-retro-att.jpg" width="200" /></a></td>
+<td><a href="./Walkhrome.jpg"><img src="./Walkhrome.jpg" width="200" /></a></td>
+<td><a href="./bring-it-home.jpg"><img src="./bring-it-home.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./clay-banks-2ujVsmHIPbA-unsplash.jpg"><img src="./clay-banks-2ujVsmHIPbA-unsplash.jpg" width="200" /></a></td>
 <td><a href="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg"><img src="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./core.jpg"><img src="./core.jpg" width="200" /></a></td>
-<td><a href="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg"><img src="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./cristina-gottardi-I1Lv2yX67GI-unsplash.jpg"><img src="./cristina-gottardi-I1Lv2yX67GI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./damhalla-ii.jpg"><img src="./damhalla-ii.jpg" width="200" /></a></td>
+<td><a href="./gloom.jpg"><img src="./gloom.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg"><img src="./fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg" width="200" /></a></td>
-<td><a href="./kazantzakis.jpg"><img src="./kazantzakis.jpg" width="200" /></a></td>
-<td><a href="./reso.jpg"><img src="./reso.jpg" width="200" /></a></td>
-<td><a href="./samsommer-J3ABLQjZQBg-unsplash.jpg"><img src="./samsommer-J3ABLQjZQBg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./michael-DXQB5D1njMY-unsplash.jpg"><img src="./michael-DXQB5D1njMY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./michael-fousert-lE5-z4nTCTQ-unsplash.jpg"><img src="./michael-fousert-lE5-z4nTCTQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./mitchell-kmetz-5a3gboOg9qc-unsplash.jpg"><img src="./mitchell-kmetz-5a3gboOg9qc-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nasa-Yj1M5riCKk4-unsplash.jpg"><img src="./nasa-Yj1M5riCKk4-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./spacex-yJv97tE7GDM-unsplash.jpg"><img src="./spacex-yJv97tE7GDM-unsplash.jpg" width="200" /></a></td>
-<td><a href="./tim-stief-YFFGkE3y4F8-unsplash.jpg"><img src="./tim-stief-YFFGkE3y4F8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./vista.jpg"><img src="./vista.jpg" width="200" /></a></td>
-<td><a href="./william-olivieri-vhKZvNFmpPU-unsplash.jpg"><img src="./william-olivieri-vhKZvNFmpPU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nicolas-thomas-wKlqqfNTLsI-unsplash.jpg"><img src="./nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./silas-baisch-OCzvgBqCJKY-unsplash.jpg"><img src="./silas-baisch-OCzvgBqCJKY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./tim-marshall-uanoYn1AmPs-unsplash.jpg"><img src="./tim-marshall-uanoYn1AmPs-unsplash.jpg" width="200" /></a></td>
+<td><a href="./yin-light.jpg"><img src="./yin-light.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
