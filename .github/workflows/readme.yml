@@ -23,7 +23,7 @@ jobs:
       - name: Generate README
         run: |
           TOTAL=$(find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.webp' \) | wc -l)
-
+          rm README.md
           cat > README.md <<EOF
           # 🖼 Wallpapers
           A collection of **high-quality 4K aesthetic wallpapers**. Perfect for desktops, backgrounds, and inspiration!
@@ -67,8 +67,6 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add .
-          git pull --rebase
           git add README.md
           git commit -m "Update README" || echo "No changes to commit"
           git push
