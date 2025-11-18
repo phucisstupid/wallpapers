@@ -67,6 +67,7 @@ jobs:
 
       - name: Commit and push
         run: |
+          git add .
           git pull --rebase
           git add README.md
           git commit -m "Update README" || echo "No changes to commit"
