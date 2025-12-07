@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./10-0_10-1-6k.jpg"><img src="./10-0_10-1-6k.jpg" width="200" /></a></td>
-<td><a href="./NOUNS-saturn.jpg"><img src="./NOUNS-saturn.jpg" width="200" /></a></td>
-<td><a href="./TECH-retro-ibm.jpg"><img src="./TECH-retro-ibm.jpg" width="200" /></a></td>
-<td><a href="./alex-perez-pontoon-boat-marco-island.jpg"><img src="./alex-perez-pontoon-boat-marco-island.jpg" width="200" /></a></td>
+<td><a href="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg"><img src="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg" width="200" /></a></td>
+<td><a href="./PLACES-ocean.jpg"><img src="./PLACES-ocean.jpg" width="200" /></a></td>
+<td><a href="./TECH-retro-pied-piper.jpg"><img src="./TECH-retro-pied-piper.jpg" width="200" /></a></td>
+<td><a href="./aldebaran-s-qtRF_RxCAo0-unsplash.jpg"><img src="./aldebaran-s-qtRF_RxCAo0-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./alex-perez-wooden-pier-marco-island.jpg"><img src="./alex-perez-wooden-pier-marco-island.jpg" width="200" /></a></td>
-<td><a href="./aurelius.jpg"><img src="./aurelius.jpg" width="200" /></a></td>
-<td><a href="./constrcuted-xiii.jpg"><img src="./constrcuted-xiii.jpg" width="200" /></a></td>
-<td><a href="./hydrometry-iii.jpg"><img src="./hydrometry-iii.jpg" width="200" /></a></td>
+<td><a href="./hans-reniers-DELDTYAjPrg-unsplash.jpg"><img src="./hans-reniers-DELDTYAjPrg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./hepburn-B.jpg"><img src="./hepburn-B.jpg" width="200" /></a></td>
+<td><a href="./joel-filipe-_AjqGGafofE-unsplash.jpg"><img src="./joel-filipe-_AjqGGafofE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./jonathan-gallegos-_vA2q0-NroU-unsplash.jpg"><img src="./jonathan-gallegos-_vA2q0-NroU-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./jaunt-and-joy-of-EmRp0jwg-unsplash.jpg"><img src="./jaunt-and-joy-of-EmRp0jwg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./jeremy-bishop-A0wvBW-Hjbs-unsplash.jpg"><img src="./jeremy-bishop-A0wvBW-Hjbs-unsplash.jpg" width="200" /></a></td>
-<td><a href="./karl-ibri-CQqZ2BWeoAU-unsplash.jpg"><img src="./karl-ibri-CQqZ2BWeoAU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./meta-iii.jpg"><img src="./meta-iii.jpg" width="200" /></a></td>
-</tr><tr>
+<td><a href="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg"><img src="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg"><img src="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg" width="200" /></a></td>
 <td><a href="./nasa-5477L9Z5eqI-unsplash.jpg"><img src="./nasa-5477L9Z5eqI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg"><img src="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./stravros-messios-blood-moon-in-cyprus.jpg"><img src="./stravros-messios-blood-moon-in-cyprus.jpg" width="200" /></a></td>
-<td><a href="./two-boats-off-maldives.jpg"><img src="./two-boats-off-maldives.jpg" width="200" /></a></td>
+<td><a href="./neon-dream.jpg"><img src="./neon-dream.jpg" width="200" /></a></td>
+</tr><tr>
+<td><a href="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg"><img src="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./silas-baisch-OCzvgBqCJKY-unsplash.jpg"><img src="./silas-baisch-OCzvgBqCJKY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./stephanie-leblanc-53aGntxJ8iA-unsplash.jpg"><img src="./stephanie-leblanc-53aGntxJ8iA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./teddy-roosevelt-A.jpg"><img src="./teddy-roosevelt-A.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
