@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./PLACES-germnay.jpg"><img src="./PLACES-germnay.jpg" width="200" /></a></td>
-<td><a href="./TECH-retro-google.jpg"><img src="./TECH-retro-google.jpg" width="200" /></a></td>
-<td><a href="./TECH-retro-ibm.jpg"><img src="./TECH-retro-ibm.jpg" width="200" /></a></td>
-<td><a href="./annie-spratt-Nvq1vngu4ZQ-unsplash.jpg"><img src="./annie-spratt-Nvq1vngu4ZQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./10-0_10-1-6k.jpg"><img src="./10-0_10-1-6k.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-5-6k.jpg"><img src="./OSX-10-5-6k.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-6-6k.jpg"><img src="./OSX-10-6-6k.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-6-Server-6k.jpg"><img src="./OSX-10-6-Server-6k.jpg" width="200" /></a></td>
 </tr><tr>
+<td><a href="./des-recits-PWGv6s2n_Ok-unsplash.jpg"><img src="./des-recits-PWGv6s2n_Ok-unsplash.jpg" width="200" /></a></td>
 <td><a href="./encrusted-iii.jpg"><img src="./encrusted-iii.jpg" width="200" /></a></td>
-<td><a href="./hitchcock.jpg"><img src="./hitchcock.jpg" width="200" /></a></td>
-<td><a href="./jacek-dylag-DcQ8dSqEosA-unsplash.jpg"><img src="./jacek-dylag-DcQ8dSqEosA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./jeremy-bishop-7KLUhedmR2c-unsplash.jpg"><img src="./jeremy-bishop-7KLUhedmR2c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./hydrometry-ii.jpg"><img src="./hydrometry-ii.jpg" width="200" /></a></td>
+<td><a href="./jeremy-bishop-HcgK4WoBwzg-unsplash.jpg"><img src="./jeremy-bishop-HcgK4WoBwzg-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./justin-luebke-SmAiLn-nnJg-unsplash.jpg"><img src="./justin-luebke-SmAiLn-nnJg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./max-chen-ZQxxar2ovS0-unsplash.jpg"><img src="./max-chen-ZQxxar2ovS0-unsplash.jpg" width="200" /></a></td>
-<td><a href="./ouael-ben-salah-0xe2FGo7Vc0-unsplash.jpg"><img src="./ouael-ben-salah-0xe2FGo7Vc0-unsplash.jpg" width="200" /></a></td>
-<td><a href="./pyramid.jpg"><img src="./pyramid.jpg" width="200" /></a></td>
+<td><a href="./joao-silveira-ships-docking-in-portugal.jpg"><img src="./joao-silveira-ships-docking-in-portugal.jpg" width="200" /></a></td>
+<td><a href="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg"><img src="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nader-saremi-VOuIAXFMmUU-unsplash.jpg"><img src="./nader-saremi-VOuIAXFMmUU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nasa-5477L9Z5eqI-unsplash.jpg"><img src="./nasa-5477L9Z5eqI-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./scott-webb-e3dY8laAQtA-unsplash.jpg"><img src="./scott-webb-e3dY8laAQtA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./stravros-messios-blood-moon-in-cyprus.jpg"><img src="./stravros-messios-blood-moon-in-cyprus.jpg" width="200" /></a></td>
-<td><a href="./two-boats-off-maldives.jpg"><img src="./two-boats-off-maldives.jpg" width="200" /></a></td>
-<td><a href="./yin-dark.jpg"><img src="./yin-dark.jpg" width="200" /></a></td>
+<td><a href="./richard-jacobs-8oenpCXktqQ-unsplash.jpg"><img src="./richard-jacobs-8oenpCXktqQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sean-105m46GatAg-unsplash.jpg"><img src="./sean-105m46GatAg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./tedd-roosevelt-C.jpg"><img src="./tedd-roosevelt-C.jpg" width="200" /></a></td>
+<td><a href="./tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg"><img src="./tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
