@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./10-0_10-1-6k.jpg"><img src="./10-0_10-1-6k.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-5-6k.jpg"><img src="./OSX-10-5-6k.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-6-6k.jpg"><img src="./OSX-10-6-6k.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-6-Server-6k.jpg"><img src="./OSX-10-6-Server-6k.jpg" width="200" /></a></td>
+<td><a href="./GENERAL-ipad-gold.jpg"><img src="./GENERAL-ipad-gold.jpg" width="200" /></a></td>
+<td><a href="./TECH-retro-microsoft.jpg"><img src="./TECH-retro-microsoft.jpg" width="200" /></a></td>
+<td><a href="./abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg"><img src="./abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg" width="200" /></a></td>
+<td><a href="./dan-stark-DLwUVlzrP0Q-unsplash.jpg"><img src="./dan-stark-DLwUVlzrP0Q-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./des-recits-PWGv6s2n_Ok-unsplash.jpg"><img src="./des-recits-PWGv6s2n_Ok-unsplash.jpg" width="200" /></a></td>
-<td><a href="./encrusted-iii.jpg"><img src="./encrusted-iii.jpg" width="200" /></a></td>
-<td><a href="./hydrometry-ii.jpg"><img src="./hydrometry-ii.jpg" width="200" /></a></td>
-<td><a href="./jeremy-bishop-HcgK4WoBwzg-unsplash.jpg"><img src="./jeremy-bishop-HcgK4WoBwzg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./daniel-leone-g30P1zcOzXo-unsplash.jpg"><img src="./daniel-leone-g30P1zcOzXo-unsplash.jpg" width="200" /></a></td>
+<td><a href="./encrusted-v-ii.jpg"><img src="./encrusted-v-ii.jpg" width="200" /></a></td>
+<td><a href="./encrusted-vii.jpg"><img src="./encrusted-vii.jpg" width="200" /></a></td>
+<td><a href="./fly-d-art-photographer-0zMHO8FTOUw-unsplash.jpg"><img src="./fly-d-art-photographer-0zMHO8FTOUw-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./joao-silveira-ships-docking-in-portugal.jpg"><img src="./joao-silveira-ships-docking-in-portugal.jpg" width="200" /></a></td>
-<td><a href="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg"><img src="./lewis-j-goetz-JbWg7W953LY-unsplash.jpg" width="200" /></a></td>
-<td><a href="./nader-saremi-VOuIAXFMmUU-unsplash.jpg"><img src="./nader-saremi-VOuIAXFMmUU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./nasa-5477L9Z5eqI-unsplash.jpg"><img src="./nasa-5477L9Z5eqI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./fly-d-art-photographer-WvCyR1gTDoA-unsplash.jpg"><img src="./fly-d-art-photographer-WvCyR1gTDoA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./ingo-stiller-3tkxfe2GocY-unsplash.jpg"><img src="./ingo-stiller-3tkxfe2GocY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./joel-filipe-_AjqGGafofE-unsplash.jpg"><img src="./joel-filipe-_AjqGGafofE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./lincoln.webp"><img src="./lincoln.webp" width="200" /></a></td>
 </tr><tr>
-<td><a href="./richard-jacobs-8oenpCXktqQ-unsplash.jpg"><img src="./richard-jacobs-8oenpCXktqQ-unsplash.jpg" width="200" /></a></td>
-<td><a href="./sean-105m46GatAg-unsplash.jpg"><img src="./sean-105m46GatAg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./tedd-roosevelt-C.jpg"><img src="./tedd-roosevelt-C.jpg" width="200" /></a></td>
-<td><a href="./tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg"><img src="./tyler-van-der-hoeven-_ok8uVzL2gI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./ouael-ben-salah-0xe2FGo7Vc0-unsplash.jpg"><img src="./ouael-ben-salah-0xe2FGo7Vc0-unsplash.jpg" width="200" /></a></td>
+<td><a href="./pete-godfrey-F_B6TM8uT2s-unsplash.jpg"><img src="./pete-godfrey-F_B6TM8uT2s-unsplash.jpg" width="200" /></a></td>
+<td><a href="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg"><img src="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./vista.jpg"><img src="./vista.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
