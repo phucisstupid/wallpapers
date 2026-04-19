@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./NOUNS-saturn.jpg"><img src="./NOUNS-saturn.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-7-6k.jpg"><img src="./OSX-10-7-6k.jpg" width="200" /></a></td>
-<td><a href="./TECH-retro-google.jpg"><img src="./TECH-retro-google.jpg" width="200" /></a></td>
-<td><a href="./astronomy.jpg"><img src="./astronomy.jpg" width="200" /></a></td>
+<td><a href="./TECH-retro-att.jpg"><img src="./TECH-retro-att.jpg" width="200" /></a></td>
+<td><a href="./abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg"><img src="./abstract-window-glass-city-urban-pattern-1168704-pxhere.com.jpg" width="200" /></a></td>
+<td><a href="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg"><img src="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg"><img src="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./cy-sirok-beach-in-tigertail-court.jpg"><img src="./cy-sirok-beach-in-tigertail-court.jpg" width="200" /></a></td>
-<td><a href="./encrusted-vii.jpg"><img src="./encrusted-vii.jpg" width="200" /></a></td>
-<td><a href="./encrusted-viii.jpg"><img src="./encrusted-viii.jpg" width="200" /></a></td>
-<td><a href="./florian-biedermann-C5mrwhFTEvY-unsplash.jpg"><img src="./florian-biedermann-C5mrwhFTEvY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./des-recits-PWGv6s2n_Ok-unsplash.jpg"><img src="./des-recits-PWGv6s2n_Ok-unsplash.jpg" width="200" /></a></td>
+<td><a href="./dimitris-kiriakakis-El4cLaVOTJg-unsplash.jpg"><img src="./dimitris-kiriakakis-El4cLaVOTJg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./flyd--OgN3kN4uO4-unsplash.jpg"><img src="./flyd--OgN3kN4uO4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./hans-reniers-DELDTYAjPrg-unsplash.jpg"><img src="./hans-reniers-DELDTYAjPrg-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./fluid-art.jpg"><img src="./fluid-art.jpg" width="200" /></a></td>
-<td><a href="./hydrometry-iii.jpg"><img src="./hydrometry-iii.jpg" width="200" /></a></td>
-<td><a href="./meta-iii.jpg"><img src="./meta-iii.jpg" width="200" /></a></td>
-<td><a href="./nighthawk.png"><img src="./nighthawk.png" width="200" /></a></td>
+<td><a href="./in-flow.jpg"><img src="./in-flow.jpg" width="200" /></a></td>
+<td><a href="./jazmin-quaynor-8ioenvmof-I-unsplash.jpg"><img src="./jazmin-quaynor-8ioenvmof-I-unsplash.jpg" width="200" /></a></td>
+<td><a href="./pyramid.jpg"><img src="./pyramid.jpg" width="200" /></a></td>
+<td><a href="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg"><img src="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./sand-2.jpg"><img src="./sand-2.jpg" width="200" /></a></td>
-<td><a href="./stranger-days.jpg"><img src="./stranger-days.jpg" width="200" /></a></td>
-<td><a href="./swapnil-deshpandey-ePyY_T5d6RI-unsplash.jpg"><img src="./swapnil-deshpandey-ePyY_T5d6RI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./win-98.png"><img src="./win-98.png" width="200" /></a></td>
+<td><a href="./the-xx.jpg"><img src="./the-xx.jpg" width="200" /></a></td>
+<td><a href="./william-olivieri-vhKZvNFmpPU-unsplash.jpg"><img src="./william-olivieri-vhKZvNFmpPU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./windows-xp-bliss-4k-lu.jpg"><img src="./windows-xp-bliss-4k-lu.jpg" width="200" /></a></td>
+<td><a href="./zdenek-machacek-XUFMiGkv-60-unsplash.jpg"><img src="./zdenek-machacek-XUFMiGkv-60-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
