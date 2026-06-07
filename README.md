@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./Alex Grey - Net of Being.jpg"><img src="./Alex Grey - Net of Being.jpg" width="200" /></a></td>
-<td><a href="./GENERAL-black-sea.jpg"><img src="./GENERAL-black-sea.jpg" width="200" /></a></td>
-<td><a href="./Old Man of Storr.jpg"><img src="./Old Man of Storr.jpg" width="200" /></a></td>
-<td><a href="./annie-spratt-Nvq1vngu4ZQ-unsplash.jpg"><img src="./annie-spratt-Nvq1vngu4ZQ-unsplash.jpg" width="200" /></a></td>
-</tr><tr>
-<td><a href="./aurelius.jpg"><img src="./aurelius.jpg" width="200" /></a></td>
+<td><a href="./NOUNS-dolphins.jpg"><img src="./NOUNS-dolphins.jpg" width="200" /></a></td>
+<td><a href="./alex-perez-pontoon-boat-marco-island.jpg"><img src="./alex-perez-pontoon-boat-marco-island.jpg" width="200" /></a></td>
+<td><a href="./alicia-chong-w5dsoP-W-aw-unsplash.jpg"><img src="./alicia-chong-w5dsoP-W-aw-unsplash.jpg" width="200" /></a></td>
 <td><a href="./calin-stan-x-HCoTDGgZw-unsplash.jpg"><img src="./calin-stan-x-HCoTDGgZw-unsplash.jpg" width="200" /></a></td>
-<td><a href="./erika-m-lAS9QB5iAus-unsplash.jpg"><img src="./erika-m-lAS9QB5iAus-unsplash.jpg" width="200" /></a></td>
-<td><a href="./fadi-al-shami-Cq-6tLezcaQ-unsplash.jpg"><img src="./fadi-al-shami-Cq-6tLezcaQ-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./hepburn-C.jpg"><img src="./hepburn-C.jpg" width="200" /></a></td>
-<td><a href="./john-o-nolan-ykeLTANUQyE-unsplash.jpg"><img src="./john-o-nolan-ykeLTANUQyE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./joseph-daniel-7FprFl6VIu8-unsplash.jpg"><img src="./joseph-daniel-7FprFl6VIu8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg"><img src="./niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./christopher-politano-ySUFHMW1hc4-unsplash.jpg"><img src="./christopher-politano-ySUFHMW1hc4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg"><img src="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg" width="200" /></a></td>
+<td><a href="./diana-parkhouse-YNQrwks9uG8-unsplash.jpg"><img src="./diana-parkhouse-YNQrwks9uG8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./dostoyevsky.jpg"><img src="./dostoyevsky.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg"><img src="./patricia-hellinger-HzYJ5e_0FEE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./portrait-of-a-flying-falcon-on-a-black-background-illustration-vector.jpg"><img src="./portrait-of-a-flying-falcon-on-a-black-background-illustration-vector.jpg" width="200" /></a></td>
-<td><a href="./thierry-meier-PKEPAeMBOIU-unsplash.jpg"><img src="./thierry-meier-PKEPAeMBOIU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./tim-marshall-uanoYn1AmPs-unsplash.jpg"><img src="./tim-marshall-uanoYn1AmPs-unsplash.jpg" width="200" /></a></td>
+<td><a href="./doug-walters-QQ9MzSs-o1I-unsplash.jpg"><img src="./doug-walters-QQ9MzSs-o1I-unsplash.jpg" width="200" /></a></td>
+<td><a href="./kire-_M6Wg9t2Uq4-unsplash.jpg"><img src="./kire-_M6Wg9t2Uq4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./luca-cassani-kwShh0LgQik-unsplash.jpg"><img src="./luca-cassani-kwShh0LgQik-unsplash.jpg" width="200" /></a></td>
+<td><a href="./mike-smith-0FijUNA1GiY-unsplash.jpg"><img src="./mike-smith-0FijUNA1GiY-unsplash.jpg" width="200" /></a></td>
+</tr><tr>
+<td><a href="./richard-jacobs-8oenpCXktqQ-unsplash.jpg"><img src="./richard-jacobs-8oenpCXktqQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./tim-marshall-yEOCA6oiVqg-unsplash.jpg"><img src="./tim-marshall-yEOCA6oiVqg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./windows-xp-bliss-4k-lu.jpg"><img src="./windows-xp-bliss-4k-lu.jpg" width="200" /></a></td>
+<td><a href="./ws-chae-t7wM3VQPiTY-unsplash.jpg"><img src="./ws-chae-t7wM3VQPiTY-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
