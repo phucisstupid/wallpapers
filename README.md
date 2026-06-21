@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg"><img src="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg" width="200" /></a></td>
-<td><a href="./GENERAL-ipad-space-grey.jpg"><img src="./GENERAL-ipad-space-grey.jpg" width="200" /></a></td>
-<td><a href="./NOUNS-saturn.jpg"><img src="./NOUNS-saturn.jpg" width="200" /></a></td>
-<td><a href="./barmaan-0fPLISfPfeg-unsplash.jpg"><img src="./barmaan-0fPLISfPfeg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-7-6k.jpg"><img src="./OSX-10-7-6k.jpg" width="200" /></a></td>
+<td><a href="./acrylic-paint-2.jpg"><img src="./acrylic-paint-2.jpg" width="200" /></a></td>
+<td><a href="./alan-mersom-NzkjR1pw0Lc-unsplash.jpg"><img src="./alan-mersom-NzkjR1pw0Lc-unsplash.jpg" width="200" /></a></td>
+<td><a href="./alex-perez-pontoon-boat-marco-island.jpg"><img src="./alex-perez-pontoon-boat-marco-island.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./blake-meyer-5RBXc7R-YWs-unsplash.jpg"><img src="./blake-meyer-5RBXc7R-YWs-unsplash.jpg" width="200" /></a></td>
-<td><a href="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg"><img src="./cosmic-timetraveler-LgrGHYZzBSk-unsplash.jpg" width="200" /></a></td>
-<td><a href="./dave-willhite-B8qYoRYS-tY-unsplash.jpg"><img src="./dave-willhite-B8qYoRYS-tY-unsplash.jpg" width="200" /></a></td>
-<td><a href="./flavio-gasperini-dolphin-coming-up-for-air.jpg"><img src="./flavio-gasperini-dolphin-coming-up-for-air.jpg" width="200" /></a></td>
+<td><a href="./alexandra-cozmei-XSdSkTnEZ_o-unsplash.jpg"><img src="./alexandra-cozmei-XSdSkTnEZ_o-unsplash.jpg" width="200" /></a></td>
+<td><a href="./aurelius.jpg"><img src="./aurelius.jpg" width="200" /></a></td>
+<td><a href="./christoffer-engstrom-wc9avd2RaN0-unsplash.jpg"><img src="./christoffer-engstrom-wc9avd2RaN0-unsplash.jpg" width="200" /></a></td>
+<td><a href="./fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg"><img src="./fly-d-art-photographer-X-JMt2vfUdo-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg"><img src="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg" width="200" /></a></td>
-<td><a href="./frank-samol-gslTbLa2FEA-unsplash.jpg"><img src="./frank-samol-gslTbLa2FEA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./hari-nandakumar-6tGANJJC7lg-unsplash.jpg"><img src="./hari-nandakumar-6tGANJJC7lg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./john-o-nolan-ykeLTANUQyE-unsplash.jpg"><img src="./john-o-nolan-ykeLTANUQyE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./ian-parker-rWey_wseEcY-unsplash.jpg"><img src="./ian-parker-rWey_wseEcY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./jan-kopriva-p1SKuYXxqec-unsplash.jpg"><img src="./jan-kopriva-p1SKuYXxqec-unsplash.jpg" width="200" /></a></td>
+<td><a href="./k-mitch-hodge-oQ9pECond48-unsplash.jpg"><img src="./k-mitch-hodge-oQ9pECond48-unsplash.jpg" width="200" /></a></td>
+<td><a href="./kazuend-cCthPLHmrzI-unsplash.jpg"><img src="./kazuend-cCthPLHmrzI-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./pete-godfrey-F_B6TM8uT2s-unsplash.jpg"><img src="./pete-godfrey-F_B6TM8uT2s-unsplash.jpg" width="200" /></a></td>
-<td><a href="./stewart.jpg"><img src="./stewart.jpg" width="200" /></a></td>
-<td><a href="./stravros-messios-blood-moon-in-cyprus.jpg"><img src="./stravros-messios-blood-moon-in-cyprus.jpg" width="200" /></a></td>
-<td><a href="./william-olivieri-vhKZvNFmpPU-unsplash.jpg"><img src="./william-olivieri-vhKZvNFmpPU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./kris-mikael-krister-aGihPIbrtVE-unsplash.jpg"><img src="./kris-mikael-krister-aGihPIbrtVE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./oled.jpg"><img src="./oled.jpg" width="200" /></a></td>
+<td><a href="./shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg"><img src="./shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg" width="200" /></a></td>
+<td><a href="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg"><img src="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
