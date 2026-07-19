@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg"><img src="./Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg" width="200" /></a></td>
-<td><a href="./OSX-10-6-6k.jpg"><img src="./OSX-10-6-6k.jpg" width="200" /></a></td>
-<td><a href="./christopher-politano-ySUFHMW1hc4-unsplash.jpg"><img src="./christopher-politano-ySUFHMW1hc4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./NOUNS-ship-two.jpg"><img src="./NOUNS-ship-two.jpg" width="200" /></a></td>
+<td><a href="./acrylic-paint-3.jpg"><img src="./acrylic-paint-3.jpg" width="200" /></a></td>
+<td><a href="./bjorn-snelders-zNNPSqKRR2c-unsplash.jpg"><img src="./bjorn-snelders-zNNPSqKRR2c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./courtnie-tosana-school-of-dolphins-in-australia.jpg"><img src="./courtnie-tosana-school-of-dolphins-in-australia.jpg" width="200" /></a></td>
+</tr><tr>
 <td><a href="./dan-MdTtpxGlrz8-unsplash.jpg"><img src="./dan-MdTtpxGlrz8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./derek-oyen-3Xd5j9-drDA-unsplash.jpg"><img src="./derek-oyen-3Xd5j9-drDA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg"><img src="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg" width="200" /></a></td>
+<td><a href="./karl-ibri-CQqZ2BWeoAU-unsplash.jpg"><img src="./karl-ibri-CQqZ2BWeoAU-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./david-clode-5uU8HSpfwkI-unsplash.jpg"><img src="./david-clode-5uU8HSpfwkI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg"><img src="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg" width="200" /></a></td>
-<td><a href="./joel-filipe-QwoNAhbmLLo-unsplash.jpg"><img src="./joel-filipe-QwoNAhbmLLo-unsplash.jpg" width="200" /></a></td>
-<td><a href="./jon-flobrant-rB7-LCa_diU-unsplash.jpg"><img src="./jon-flobrant-rB7-LCa_diU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./luca-cassani-kwShh0LgQik-unsplash.jpg"><img src="./luca-cassani-kwShh0LgQik-unsplash.jpg" width="200" /></a></td>
+<td><a href="./marc-zimmer-yktwU2t1qHA-unsplash.jpg"><img src="./marc-zimmer-yktwU2t1qHA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./portrait-of-a-flying-falcon-on-a-black-background-illustration-vector.jpg"><img src="./portrait-of-a-flying-falcon-on-a-black-background-illustration-vector.jpg" width="200" /></a></td>
+<td><a href="./ricardo-braham-turtles-in-playa-del-carmen-mexico.jpg"><img src="./ricardo-braham-turtles-in-playa-del-carmen-mexico.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./kazden-cattapan-forMsOsa_Ng-unsplash.jpg"><img src="./kazden-cattapan-forMsOsa_Ng-unsplash.jpg" width="200" /></a></td>
-<td><a href="./matt-hardy-6ArTTluciuA-unsplash.jpg"><img src="./matt-hardy-6ArTTluciuA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./priscilla-fraire-_1LvAexVWa8-unsplash.jpg"><img src="./priscilla-fraire-_1LvAexVWa8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./richard-jacobs-8oenpCXktqQ-unsplash.jpg"><img src="./richard-jacobs-8oenpCXktqQ-unsplash.jpg" width="200" /></a></td>
-</tr><tr>
-<td><a href="./sam-wermut-35muyqODIHA-unsplash.jpg"><img src="./sam-wermut-35muyqODIHA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./spacex-yJv97tE7GDM-unsplash.jpg"><img src="./spacex-yJv97tE7GDM-unsplash.jpg" width="200" /></a></td>
-<td><a href="./tim-marshall-yEOCA6oiVqg-unsplash.jpg"><img src="./tim-marshall-yEOCA6oiVqg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./tim-stief-YFFGkE3y4F8-unsplash.jpg"><img src="./tim-stief-YFFGkE3y4F8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg"><img src="./shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg" width="200" /></a></td>
+<td><a href="./spencer-davis-ilQmlVIMN4c-unsplash.jpg"><img src="./spencer-davis-ilQmlVIMN4c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./washington.webp"><img src="./washington.webp" width="200" /></a></td>
+<td><a href="./zdenek-machacek-XUFMiGkv-60-unsplash.jpg"><img src="./zdenek-machacek-XUFMiGkv-60-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
