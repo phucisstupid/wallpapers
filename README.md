@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./OSX-10-5-6k.jpg"><img src="./OSX-10-5-6k.jpg" width="200" /></a></td>
-<td><a href="./alex-perez-wooden-pier-marco-island.jpg"><img src="./alex-perez-wooden-pier-marco-island.jpg" width="200" /></a></td>
-<td><a href="./aurelius.jpg"><img src="./aurelius.jpg" width="200" /></a></td>
-<td><a href="./clay-banks-2ujVsmHIPbA-unsplash.jpg"><img src="./clay-banks-2ujVsmHIPbA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-8-6k.jpg"><img src="./OSX-10-8-6k.jpg" width="200" /></a></td>
+<td><a href="./alex-rose-ccWJHxUeM7c-unsplash.jpg"><img src="./alex-rose-ccWJHxUeM7c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./alicia-chong-w5dsoP-W-aw-unsplash.jpg"><img src="./alicia-chong-w5dsoP-W-aw-unsplash.jpg" width="200" /></a></td>
+<td><a href="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg"><img src="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg"><img src="./clem-onojeghuo-jNx7P5a8DpE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./erika-m-lAS9QB5iAus-unsplash.jpg"><img src="./erika-m-lAS9QB5iAus-unsplash.jpg" width="200" /></a></td>
-<td><a href="./goodall.jpg"><img src="./goodall.jpg" width="200" /></a></td>
-<td><a href="./ian-parker-TLcLDigmTKE-unsplash.jpg"><img src="./ian-parker-TLcLDigmTKE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./bjorn-snelders-Cd3Ek7rNXSk-unsplash.jpg"><img src="./bjorn-snelders-Cd3Ek7rNXSk-unsplash.jpg" width="200" /></a></td>
+<td><a href="./cameron-venti-big-fish.jpg"><img src="./cameron-venti-big-fish.jpg" width="200" /></a></td>
+<td><a href="./christopher-politano-ySUFHMW1hc4-unsplash.jpg"><img src="./christopher-politano-ySUFHMW1hc4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./courtnie-tosana-school-of-dolphins-in-australia.jpg"><img src="./courtnie-tosana-school-of-dolphins-in-australia.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./luca-cassani-kwShh0LgQik-unsplash.jpg"><img src="./luca-cassani-kwShh0LgQik-unsplash.jpg" width="200" /></a></td>
-<td><a href="./mathew-schwartz-rtT0Uk8fkR8-unsplash.jpg"><img src="./mathew-schwartz-rtT0Uk8fkR8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./michael-DXQB5D1njMY-unsplash.jpg"><img src="./michael-DXQB5D1njMY-unsplash.jpg" width="200" /></a></td>
-<td><a href="./priscilla-fraire-_1LvAexVWa8-unsplash.jpg"><img src="./priscilla-fraire-_1LvAexVWa8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg"><img src="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg"><img src="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg" width="200" /></a></td>
+<td><a href="./noel-schlafli-9_pl_TT5Low-unsplash.jpg"><img src="./noel-schlafli-9_pl_TT5Low-unsplash.jpg" width="200" /></a></td>
+<td><a href="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"><img src="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./richard-jacobs-8oenpCXktqQ-unsplash.jpg"><img src="./richard-jacobs-8oenpCXktqQ-unsplash.jpg" width="200" /></a></td>
-<td><a href="./spacex--p-KCm6xB9I-unsplash.jpg"><img src="./spacex--p-KCm6xB9I-unsplash.jpg" width="200" /></a></td>
-<td><a href="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg"><img src="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg" width="200" /></a></td>
-<td><a href="./yucar-studios-cfR-V1QuEKw-unsplash.jpg"><img src="./yucar-studios-cfR-V1QuEKw-unsplash.jpg" width="200" /></a></td>
+<td><a href="./romeo-a-VAtK8vTHb4Q-unsplash.jpg"><img src="./romeo-a-VAtK8vTHb4Q-unsplash.jpg" width="200" /></a></td>
+<td><a href="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg"><img src="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg" width="200" /></a></td>
+<td><a href="./stsci-01kx6d0xbhsyp7q1em5qtc43rp.jpg"><img src="./stsci-01kx6d0xbhsyp7q1em5qtc43rp.jpg" width="200" /></a></td>
+<td><a href="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg"><img src="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
