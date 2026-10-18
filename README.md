@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./OSX-10-8-6k.jpg"><img src="./OSX-10-8-6k.jpg" width="200" /></a></td>
-<td><a href="./alex-rose-ccWJHxUeM7c-unsplash.jpg"><img src="./alex-rose-ccWJHxUeM7c-unsplash.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-5-6k.jpg"><img src="./OSX-10-5-6k.jpg" width="200" /></a></td>
+<td><a href="./PLACES-yacht.jpg"><img src="./PLACES-yacht.jpg" width="200" /></a></td>
+<td><a href="./acrylic-paint-3.jpg"><img src="./acrylic-paint-3.jpg" width="200" /></a></td>
+<td><a href="./aldebaran-s-uXchDIKs4qI-unsplash.jpg"><img src="./aldebaran-s-uXchDIKs4qI-unsplash.jpg" width="200" /></a></td>
+</tr><tr>
 <td><a href="./alicia-chong-w5dsoP-W-aw-unsplash.jpg"><img src="./alicia-chong-w5dsoP-W-aw-unsplash.jpg" width="200" /></a></td>
-<td><a href="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg"><img src="./atanas-malamov-4jgWVpKHO_4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./allec-gomes-bE7D3J-3t3g-unsplash.jpg"><img src="./allec-gomes-bE7D3J-3t3g-unsplash.jpg" width="200" /></a></td>
+<td><a href="./aperture-vintage-Z6EpCdMcoUU-unsplash.jpg"><img src="./aperture-vintage-Z6EpCdMcoUU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./cy-sirok-beach-in-tigertail-court.jpg"><img src="./cy-sirok-beach-in-tigertail-court.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./bjorn-snelders-Cd3Ek7rNXSk-unsplash.jpg"><img src="./bjorn-snelders-Cd3Ek7rNXSk-unsplash.jpg" width="200" /></a></td>
-<td><a href="./cameron-venti-big-fish.jpg"><img src="./cameron-venti-big-fish.jpg" width="200" /></a></td>
-<td><a href="./christopher-politano-ySUFHMW1hc4-unsplash.jpg"><img src="./christopher-politano-ySUFHMW1hc4-unsplash.jpg" width="200" /></a></td>
-<td><a href="./courtnie-tosana-school-of-dolphins-in-australia.jpg"><img src="./courtnie-tosana-school-of-dolphins-in-australia.jpg" width="200" /></a></td>
+<td><a href="./james-donaldson-toPRrcyAIUY-unsplash.jpg"><img src="./james-donaldson-toPRrcyAIUY-unsplash.jpg" width="200" /></a></td>
+<td><a href="./joao-silveira-ships-docking-in-portugal.jpg"><img src="./joao-silveira-ships-docking-in-portugal.jpg" width="200" /></a></td>
+<td><a href="./kazden-cattapan-forMsOsa_Ng-unsplash.jpg"><img src="./kazden-cattapan-forMsOsa_Ng-unsplash.jpg" width="200" /></a></td>
+<td><a href="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg"><img src="./mihaela-claudia-puscas-jTxzqYDR9oI-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg"><img src="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg"><img src="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./noel-schlafli-9_pl_TT5Low-unsplash.jpg"><img src="./noel-schlafli-9_pl_TT5Low-unsplash.jpg" width="200" /></a></td>
-<td><a href="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"><img src="./pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg" width="200" /></a></td>
-</tr><tr>
-<td><a href="./romeo-a-VAtK8vTHb4Q-unsplash.jpg"><img src="./romeo-a-VAtK8vTHb4Q-unsplash.jpg" width="200" /></a></td>
-<td><a href="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg"><img src="./shifaaz-shamoon-9K9ipjhDdks-unsplash.jpg" width="200" /></a></td>
-<td><a href="./stsci-01kx6d0xbhsyp7q1em5qtc43rp.jpg"><img src="./stsci-01kx6d0xbhsyp7q1em5qtc43rp.jpg" width="200" /></a></td>
-<td><a href="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg"><img src="./susan-wilkinson-UFAscr07OaQ-unsplash.jpg" width="200" /></a></td>
+<td><a href="./miltiadis-fragkidis-YZBuJZ808-4-unsplash.jpg"><img src="./miltiadis-fragkidis-YZBuJZ808-4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sebastian-hages-Jn67_91aoOg-unsplash.jpg"><img src="./sebastian-hages-Jn67_91aoOg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg"><img src="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg" width="200" /></a></td>
+<td><a href="./theodor-lundqvist-6Ox3fPG-qvo-unsplash.jpg"><img src="./theodor-lundqvist-6Ox3fPG-qvo-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
