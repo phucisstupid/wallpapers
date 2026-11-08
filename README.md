@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg"><img src="./7e5294_9b9219bf09aa44c7beec83c4733b1f3b~mv2_d_3906_3939_s_4_2.jpg" width="200" /></a></td>
-<td><a href="./PLACES-mount-mauganui-new-zealand.jpg"><img src="./PLACES-mount-mauganui-new-zealand.jpg" width="200" /></a></td>
-<td><a href="./alan-mersom-NzkjR1pw0Lc-unsplash.jpg"><img src="./alan-mersom-NzkjR1pw0Lc-unsplash.jpg" width="200" /></a></td>
-<td><a href="./alexandra-cozmei-XSdSkTnEZ_o-unsplash.jpg"><img src="./alexandra-cozmei-XSdSkTnEZ_o-unsplash.jpg" width="200" /></a></td>
+<td><a href="./Old Man of Storr.jpg"><img src="./Old Man of Storr.jpg" width="200" /></a></td>
+<td><a href="./andrzej-kryszpiniuk-4wFqHZ1ONnM-unsplash.jpg"><img src="./andrzej-kryszpiniuk-4wFqHZ1ONnM-unsplash.jpg" width="200" /></a></td>
+<td><a href="./caleb-george-ship-ahore-in-hati.jpg"><img src="./caleb-george-ship-ahore-in-hati.jpg" width="200" /></a></td>
+<td><a href="./cameron-venti-big-fish.jpg"><img src="./cameron-venti-big-fish.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./calin-stan-x-HCoTDGgZw-unsplash.jpg"><img src="./calin-stan-x-HCoTDGgZw-unsplash.jpg" width="200" /></a></td>
-<td><a href="./etienne-delorieux-e5sp18O40yA-unsplash.jpg"><img src="./etienne-delorieux-e5sp18O40yA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg"><img src="./gatis-marcinkevics-a5uptAdUmjE-unsplash.jpg" width="200" /></a></td>
-<td><a href="./helena-lopes-RoTyXO1m0wo-unsplash.jpg"><img src="./helena-lopes-RoTyXO1m0wo-unsplash.jpg" width="200" /></a></td>
+<td><a href="./dan-MdTtpxGlrz8-unsplash.jpg"><img src="./dan-MdTtpxGlrz8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./dimitris-kiriakakis-7AW5yeITXlU-unsplash.jpg"><img src="./dimitris-kiriakakis-7AW5yeITXlU-unsplash.jpg" width="200" /></a></td>
+<td><a href="./erika-m-lAS9QB5iAus-unsplash.jpg"><img src="./erika-m-lAS9QB5iAus-unsplash.jpg" width="200" /></a></td>
+<td><a href="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg"><img src="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./joao-silveira-ships-docking-in-portugal.jpg"><img src="./joao-silveira-ships-docking-in-portugal.jpg" width="200" /></a></td>
-<td><a href="./joel-vodell-8Ogfqvw15Rg-unsplash.jpg"><img src="./joel-vodell-8Ogfqvw15Rg-unsplash.jpg" width="200" /></a></td>
-<td><a href="./nasa-Yj1M5riCKk4-unsplash.jpg"><img src="./nasa-Yj1M5riCKk4-unsplash.jpg" width="200" /></a></td>
-<td><a href="./shifaaz-shamoon-58GWNC-hq_k-unsplash.jpg"><img src="./shifaaz-shamoon-58GWNC-hq_k-unsplash.jpg" width="200" /></a></td>
+<td><a href="./frank-samol-gslTbLa2FEA-unsplash.jpg"><img src="./frank-samol-gslTbLa2FEA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./golden-lights.jpg"><img src="./golden-lights.jpg" width="200" /></a></td>
+<td><a href="./ingo-doerrie-TQWAmOShbEM-unsplash.jpg"><img src="./ingo-doerrie-TQWAmOShbEM-unsplash.jpg" width="200" /></a></td>
+<td><a href="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg"><img src="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./silas-baisch-OCzvgBqCJKY-unsplash.jpg"><img src="./silas-baisch-OCzvgBqCJKY-unsplash.jpg" width="200" /></a></td>
-<td><a href="./syd-sujuaan-FywWHwkizaQ-unsplash.jpg"><img src="./syd-sujuaan-FywWHwkizaQ-unsplash.jpg" width="200" /></a></td>
-<td><a href="./theodor-lundqvist-6Ox3fPG-qvo-unsplash.jpg"><img src="./theodor-lundqvist-6Ox3fPG-qvo-unsplash.jpg" width="200" /></a></td>
-<td><a href="./wolfgang-weiser-TDcIDI9bY8A-unsplash.jpg"><img src="./wolfgang-weiser-TDcIDI9bY8A-unsplash.jpg" width="200" /></a></td>
+<td><a href="./jan-kopriva-p1SKuYXxqec-unsplash.jpg"><img src="./jan-kopriva-p1SKuYXxqec-unsplash.jpg" width="200" /></a></td>
+<td><a href="./luis-diego-aguilar-4hl866ST7kI-unsplash.jpg"><img src="./luis-diego-aguilar-4hl866ST7kI-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sediment-in-the-gulf-of-mexico.jpg"><img src="./sediment-in-the-gulf-of-mexico.jpg" width="200" /></a></td>
+<td><a href="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg"><img src="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
