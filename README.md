@@ -24,24 +24,24 @@ git fetch origin && git reset --hard origin/main
 
 <table>
 <tr>
-<td><a href="./Old Man of Storr.jpg"><img src="./Old Man of Storr.jpg" width="200" /></a></td>
-<td><a href="./andrzej-kryszpiniuk-4wFqHZ1ONnM-unsplash.jpg"><img src="./andrzej-kryszpiniuk-4wFqHZ1ONnM-unsplash.jpg" width="200" /></a></td>
-<td><a href="./caleb-george-ship-ahore-in-hati.jpg"><img src="./caleb-george-ship-ahore-in-hati.jpg" width="200" /></a></td>
-<td><a href="./cameron-venti-big-fish.jpg"><img src="./cameron-venti-big-fish.jpg" width="200" /></a></td>
+<td><a href="./Alex Grey - Net of Being.jpg"><img src="./Alex Grey - Net of Being.jpg" width="200" /></a></td>
+<td><a href="./GENERAL-black-boat-sea.jpg"><img src="./GENERAL-black-boat-sea.jpg" width="200" /></a></td>
+<td><a href="./Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg"><img src="./Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg" width="200" /></a></td>
+<td><a href="./NOUNS-hairy-penguins-2.jpg"><img src="./NOUNS-hairy-penguins-2.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./dan-MdTtpxGlrz8-unsplash.jpg"><img src="./dan-MdTtpxGlrz8-unsplash.jpg" width="200" /></a></td>
-<td><a href="./dimitris-kiriakakis-7AW5yeITXlU-unsplash.jpg"><img src="./dimitris-kiriakakis-7AW5yeITXlU-unsplash.jpg" width="200" /></a></td>
-<td><a href="./erika-m-lAS9QB5iAus-unsplash.jpg"><img src="./erika-m-lAS9QB5iAus-unsplash.jpg" width="200" /></a></td>
-<td><a href="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg"><img src="./frames-for-your-heart-1aPFk4UV5Ec-unsplash.jpg" width="200" /></a></td>
+<td><a href="./OSX-10-5-6k.jpg"><img src="./OSX-10-5-6k.jpg" width="200" /></a></td>
+<td><a href="./christopher-politano-ySUFHMW1hc4-unsplash.jpg"><img src="./christopher-politano-ySUFHMW1hc4-unsplash.jpg" width="200" /></a></td>
+<td><a href="./courtnie-tosana-school-of-dolphins-in-australia.jpg"><img src="./courtnie-tosana-school-of-dolphins-in-australia.jpg" width="200" /></a></td>
+<td><a href="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg"><img src="./fly-d-art-photographer-7PF3tync7xE-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./frank-samol-gslTbLa2FEA-unsplash.jpg"><img src="./frank-samol-gslTbLa2FEA-unsplash.jpg" width="200" /></a></td>
-<td><a href="./golden-lights.jpg"><img src="./golden-lights.jpg" width="200" /></a></td>
-<td><a href="./ingo-doerrie-TQWAmOShbEM-unsplash.jpg"><img src="./ingo-doerrie-TQWAmOShbEM-unsplash.jpg" width="200" /></a></td>
-<td><a href="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg"><img src="./ivan-ragozin-ICzu-TVSjos-unsplash.jpg" width="200" /></a></td>
+<td><a href="./lucas-benjamin-R79qkPYvrcM-unsplash.jpg"><img src="./lucas-benjamin-R79qkPYvrcM-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nasa-8Hjx3GNZYeA-unsplash.jpg"><img src="./nasa-8Hjx3GNZYeA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./nasa-Q1p7bh3SHj8-unsplash.jpg"><img src="./nasa-Q1p7bh3SHj8-unsplash.jpg" width="200" /></a></td>
+<td><a href="./patrick-desloge-tgqdM6VQy2E-unsplash.jpg"><img src="./patrick-desloge-tgqdM6VQy2E-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
-<td><a href="./jan-kopriva-p1SKuYXxqec-unsplash.jpg"><img src="./jan-kopriva-p1SKuYXxqec-unsplash.jpg" width="200" /></a></td>
-<td><a href="./luis-diego-aguilar-4hl866ST7kI-unsplash.jpg"><img src="./luis-diego-aguilar-4hl866ST7kI-unsplash.jpg" width="200" /></a></td>
-<td><a href="./sediment-in-the-gulf-of-mexico.jpg"><img src="./sediment-in-the-gulf-of-mexico.jpg" width="200" /></a></td>
-<td><a href="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg"><img src="./shifaaz-shamoon-ikVBaapsTPg-unsplash.jpg" width="200" /></a></td>
+<td><a href="./spacex--p-KCm6xB9I-unsplash.jpg"><img src="./spacex--p-KCm6xB9I-unsplash.jpg" width="200" /></a></td>
+<td><a href="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg"><img src="./sterling-lanier-WDBqiHt3tNo-unsplash.jpg" width="200" /></a></td>
+<td><a href="./thomas-vimare-IZ01rjX0XQA-unsplash.jpg"><img src="./thomas-vimare-IZ01rjX0XQA-unsplash.jpg" width="200" /></a></td>
+<td><a href="./tim-marshall-uanoYn1AmPs-unsplash.jpg"><img src="./tim-marshall-uanoYn1AmPs-unsplash.jpg" width="200" /></a></td>
 </tr><tr>
 </tr></table>
